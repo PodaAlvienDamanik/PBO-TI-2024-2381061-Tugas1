@@ -3,6 +3,7 @@ public class NonPrimitive {
         Integer number = 10;
         int number2 = number;
 
-        double tipeDataDouble = number2.doubleValue();
+        double tipeDataDouble = number.doubleValue();
+        System.out.println(tipeDataDouble);
     }
 }

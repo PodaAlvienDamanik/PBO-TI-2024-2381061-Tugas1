@@ -5,5 +5,6 @@ public class BuatVariable {
         String yahaha = "Nama Saya " + name;
 
         final float nilaiphi = 3.14F;
+        System.out.println(yahaha);
     }
 }
