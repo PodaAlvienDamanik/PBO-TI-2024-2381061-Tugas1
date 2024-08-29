@@ -1,4 +1,4 @@
-public class TIpeDataArray {
+public class TipeDataArray {
     public static void main(String[] args) {
         Object[] kumpulanAngka;
         kumpulanAngka = new Object[3];
