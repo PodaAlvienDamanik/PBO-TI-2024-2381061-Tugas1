@@ -10,7 +10,7 @@ public class TipeDataArray {
        // int[] kumpulanAngka = new int[3];
         kumpulanAngka[0] = 100;
         kumpulanAngka[1] = "Poda";
-        kumpulanAngka[2] = 20L;
+        kumpulanAngka[2] = 30L;
 
         System.out.println(kumpulanAngka[1]);
 
